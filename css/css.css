@@ -1,0 +1,12 @@
+body{
+  font-family: monospace;
+  background: linear-gradient(#4A9BE2,#A4CDF0,#ACD1F1) fixed;
+  overflow: hidden;
+}
+
+#hider{
+  z-index: -10;
+  position: absolute;
+  top: 10vh;
+  left: 10vw;
+}
